@@ -1,0 +1,11 @@
+{
+  "name": "@manifold/lua-modules",
+  "version": "0.0.0",
+  "description": "",
+  "main": "entrypoint.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SEE CONTRIBUTORS",
+  "license": "SEE LICENSE IN LICENSE"
+}
